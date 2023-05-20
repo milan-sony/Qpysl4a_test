@@ -1,7 +1,7 @@
 
-# Qpysl4a
+# Qpysl4a Test
 
-## Qpysl4a Test
+QPySL4A is the Script Layer for Android (SL4A) Library for QPython. It allows you to program to drive Android to work.
 
 ```bash
     import androidhelper
