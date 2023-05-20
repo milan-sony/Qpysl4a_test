@@ -3,11 +3,12 @@
 
 QPySL4A is the Script Layer for Android (SL4A) Library for QPython. It allows you to program to drive Android to work.
 
+For more info check <a href = "https://github.com/qpython-android/qpysl4a">QPySL4A</a>
+
 Install <a href = "https://github.com/qpython-android/qpython3/releases">QPython 3S</a>
 
 Documentation <a href = "https://kylelk.github.io/html-examples/androidhelper.html">androidhelper documentation</a>
 
-For more info check <a href = "https://github.com/qpython-android/qpysl4a">QPySL4A</a>
 
 ```bash
     import androidhelper
